@@ -1,7 +1,25 @@
-### Hello there
+## Hello there!
 
-My name is [Redacted]!
+### My name is Tommy.
 
-I love python, flask, a little c++, java, a little JS, html, and mongodb.
+My expertise is over designing applications to be incredibly modular.
 
-I am currently 2^69 years old.
+The topics that I am familiar in are:
+
+    - Python
+    - A little java
+    - A little javascript
+    - A little c++ (don't ask me to write in it)
+    - Mongodb
+    - SQlite
+    - Linux
+
+My current setup is:
+    1. Lenovo IdeaPad S340-15IWL 
+        - Runs Arch Linux
+        - i3-gaps
+        - 5.10 tkg kernel
+    2. Gaming desktop
+        - Runs Arch Linux
+        - Gnome 3 (fight me)
+        - Zen kernel
