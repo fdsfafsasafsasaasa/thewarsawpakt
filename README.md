@@ -2,7 +2,7 @@
 
 ### My name is Tommy.
 
-Check out my website at [warsawpakt.xyz](https://warsawpakt.xyz)
+Check out my website at [warsawpakt.xyz](https://warsawpakt.xyz).
 
 My expertise is over designing applications to be incredibly modular.
 
